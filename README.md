@@ -1,0 +1,1 @@
+## Implémentation d'un modèle pour prédire si un utilisateur va recommander ou non un jeu en fonction de son commentaire
