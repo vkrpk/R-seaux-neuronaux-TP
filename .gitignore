@@ -174,3 +174,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+/data_jour_5/seg_test
+/data_jour_5/seg_train
+/data_jour_5/seg_test.zip
+/data_jour_5/seg_train.zip
+
