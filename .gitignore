@@ -179,3 +179,12 @@ cython_debug/
 /data_jour_5/seg_test.zip
 /data_jour_5/seg_train.zip
 
+!/model_resnet50_20250411_141124.h5
+
+!/mon_modele_resnet50_without_layers.h5
+
+!/lstm_sentiment_model.h5
+
+!/model_resnet50_20250411_141106.h5
+
+!/mon_modele_resnet50.h5
